@@ -1,16 +1,16 @@
 {
     "name": "intersection-observer-polyfill",
     "author": "Denis Rul <que.etc@bgmail.com>",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A polyfill of IntersectionObserver API",
     "main": "lib/IntersectionObserver.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/que-etc/intersection-observer-polyfill.git"
+        "url": "https://github.com/LiamMartens/intersection-observer-polyfill.git"
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/que-etc/intersection-observer-polyfill/issues"
+        "url": "https://github.com/LiamMartens/intersection-observer-polyfill/issues"
     },
     "keywords": [
         "util",
@@ -21,7 +21,7 @@
     "scripts": {
         "lib": "babel src --out-dir lib"
     },
-    "homepage": "https://github.com/que-etc/intersection-observer-polyfill",
+    "homepage": "https://github.com/LiamMartens/intersection-observer-polyfill",
     "devDependencies": {
         "babel-core": "^6.9.1",
         "babel-loader": "^6.2.4",
